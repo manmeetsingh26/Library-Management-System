@@ -52,7 +52,7 @@ Save and load book records permanently.
 |--------|--------|
 | Repository Setup | ✅ Completed |
 | README Documentation | ✅ Completed |
-| Basic Menu System | 🔄 Planned |
+| Basic Menu System | ✅ Completed |
 | Add Book | 🔄 Planned |
 | View Books | 🔄 Planned |
 | Search Book | 🔄 Planned |
